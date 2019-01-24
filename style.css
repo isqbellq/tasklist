@@ -57,6 +57,9 @@ body {
 }
 
 @media (max-width: 500px) {
+	body {
+		max-height: none;
+	}
 	.container {
 		margin-top: 50%;
 		min-width: 280px;
