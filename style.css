@@ -61,7 +61,7 @@ body {
 
 @media (max-width: 500px) {
 	body {
-		height: 150%;
+		height: 100vh;
 		background-attachment: fixed;;
 }
 	.container {
