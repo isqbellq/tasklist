@@ -35,7 +35,7 @@ body {
 	font-style: normal;
 }
 .items input:checked + label:before {
-	content: "📌";
+	content: "✔️";
 	cursor: pointer;
 	font-style: normal;
 }
