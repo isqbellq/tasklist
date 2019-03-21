@@ -63,9 +63,8 @@ body {
 	body {
 		height: 100vh;
 		background-attachment: fixed;;
-}
+	}
 	.container {
-		margin-top: 50%;
 		min-width: 280px;
 	}
 }
