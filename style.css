@@ -61,6 +61,7 @@ body {
 }
 
 .add-items [type=submit] {
+	font-weight: 600;
 	-webkit-box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, 0.1); 
 	-moz-box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, 0.1);
 	box-shadow: 0 2px 5px 0 hsla(0, 0%, 0%, 0.1);
